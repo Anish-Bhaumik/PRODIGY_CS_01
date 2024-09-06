@@ -23,7 +23,7 @@ Follow these steps to get the Caesar Cipher program up and running on your local
 1. Clone the Repository:
 
 ```bash
-  https://github.com/Anish-Bhaumik/PRODIGY_CS_01.git
+git clone https://github.com/Anish-Bhaumik/PRODIGY_CS_01.git
 ```
 2. Navigate to the Project Directory:
 
