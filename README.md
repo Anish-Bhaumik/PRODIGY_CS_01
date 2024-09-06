@@ -20,7 +20,7 @@ Follow these steps to get the Caesar Cipher program up and running on your local
 - Python 3.x: Ensure Python 3 is installed on your system. You can download it from https://www.python.org/.
 ## Installation
 
--- Clone the Repository:
+- Clone the Repository:
 
 ```bash
   https://github.com/Anish-Bhaumik/PRODIGY_CS_01.git
